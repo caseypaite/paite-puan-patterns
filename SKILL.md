@@ -132,6 +132,8 @@ Every composite band, border, hairline, and interval has a fixed proportional re
    - State the canonical pattern name and aspect ratio.
    - Summarize the pattern structure, color ratios, and sequence order.
    - Provide the canonical hex palette codes.
+7. **Accompany with WordPress-Formatted Description:**
+   - Whenever an image is successfully generated using or referencing this skill, provide a complete WordPress-compatible description block (Title, Alt Text, Caption, Story, Pattern Breakdown, Original Prompt, Skill Attribution, GitHub Repository URL: `https://github.com/caseypaite/paite-puan-patterns`, and WordPress Tags/Categories).
 
 ---
 
