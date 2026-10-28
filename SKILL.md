@@ -133,7 +133,8 @@ Every composite band, border, hairline, and interval has a fixed proportional re
    - Summarize the pattern structure, color ratios, and sequence order.
    - Provide the canonical hex palette codes.
 7. **Accompany with WordPress-Formatted Description:**
-   - Whenever an image is successfully generated using or referencing this skill, provide a complete WordPress-compatible description block (Title, Alt Text, Caption, Story, Pattern Breakdown, Original Prompt, Skill Attribution, GitHub Repository URL: `https://github.com/caseypaite/paite-puan-patterns`, and WordPress Tags/Categories).
+   - Whenever an image is successfully generated using or referencing this skill, provide a short, concise WordPress-compatible description block (Title, Alt Text, Caption, brief Story, compact Pattern Breakdown, Skill Attribution, GitHub Repository URL: `https://github.com/caseypaite/paite-puan-patterns`, and WordPress Tags/Categories).
+   - **Collapsible Prompt Drawer:** The original generation prompt must always be enclosed in a collapsible `<details class="wp-block-details">` drawer so it remains collapsed by default and does not overimpose on the image in a blog post.
 
 ---
 
