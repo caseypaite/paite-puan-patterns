@@ -1,0 +1,237 @@
+{
+  "skill_name": "paite-puan-patterns",
+  "author": "Casey Paite",
+  "version": "2.0.0",
+  "packaged_at": "2026-10-28T23:14:07.438319",
+  "zero_variation_mandate": true,
+  "cultural_integrity": "Paite Puan patterns are canonical traditional cloths. Variations, arbitrary recoloring, or pattern alterations are prohibited.",
+  "credits": {
+    "skill_author": "Casey Paite",
+    "digital_artist": "Mr. Siam Naulak",
+    "studio": "Naulak Web Design",
+    "website": "https://naulak.com",
+    "origin": "Created as design material for the 2027 Calendar of the Young Paite Association (YPA), West Delhi Unit.",
+    "mandate": "Sacred traditional cultural patterns. Zero variations permitted. All reproductions must follow canonical pattern, color ratio, and order."
+  },
+  "pattern_count": 12,
+  "patterns": [
+    "Paite Puandum",
+    "Siamsin Puan",
+    "Thangsuah Puan",
+    "Puanlaisan",
+    "Galhang Puan",
+    "Khephiau Puan",
+    "Ngoutekhelh Puan",
+    "Mal-am Puan",
+    "Aksi Puan",
+    "Pangpalek Puan",
+    "Lianbuangthuam Puan",
+    "Puanthupi Puan"
+  ],
+  "assets": [
+    {
+      "id": "paite-puandum",
+      "name": "Paite Puandum",
+      "type": "standard_reference",
+      "path": "assets/paite-puandum.jpg",
+      "size_bytes": 422262,
+      "sha256": "f7f87f54b103ead52aeb8d17d948eb674615a8efed92dca00e37a028baf3918c"
+    },
+    {
+      "id": "paite-puandum",
+      "name": "Paite Puandum",
+      "type": "master_graphic",
+      "path": "puan-images/01_Paite_Puandum.jpeg",
+      "resolution": "2560x1441",
+      "size_bytes": 1388359,
+      "sha256": "e6d5ff3b31062b4785fce58c9872c7f2b1cea4fd47ea429fcddca41b01fdf341"
+    },
+    {
+      "id": "siamsin-puan",
+      "name": "Siamsin Puan",
+      "type": "standard_reference",
+      "path": "assets/siamsin-puan.jpg",
+      "size_bytes": 285412,
+      "sha256": "61f8ee1b911f85b2d01fc5b03a252e629c514f4b7a52c18a13dd65229ce56c04"
+    },
+    {
+      "id": "siamsin-puan",
+      "name": "Siamsin Puan",
+      "type": "master_graphic",
+      "path": "puan-images/02_Siamsin_Puan.jpeg",
+      "resolution": "2560x1683",
+      "size_bytes": 823313,
+      "sha256": "5a4fd00b51eb8137cab0fb27e6707e37a0afc89cfb61cba503f2dc02105a302f"
+    },
+    {
+      "id": "thangsuah-puan",
+      "name": "Thangsuah Puan",
+      "type": "standard_reference",
+      "path": "assets/thangsuah-puan.jpg",
+      "size_bytes": 293869,
+      "sha256": "a39c2a3e77254b0059c4dfe4d80f312a3b00bc6dffabc455421513d63a1efd72"
+    },
+    {
+      "id": "thangsuah-puan",
+      "name": "Thangsuah Puan",
+      "type": "master_graphic",
+      "path": "puan-images/03_Thangsuah_Puan.jpeg",
+      "resolution": "2560x1424",
+      "size_bytes": 905015,
+      "sha256": "1e894fb6c129f97a45ca6d32180551547bc0b16e2f64d2b2cc559a118361afb3"
+    },
+    {
+      "id": "puanlaisan",
+      "name": "Puanlaisan",
+      "type": "standard_reference",
+      "path": "assets/puanlaisan.jpg",
+      "size_bytes": 192774,
+      "sha256": "0742637106dbac56fb59fc83e9f2a88270bc5f9d1e5ebab0f75c9b795e13d899"
+    },
+    {
+      "id": "puanlaisan",
+      "name": "Puanlaisan",
+      "type": "master_graphic",
+      "path": "puan-images/04_Puanlaisan.jpeg",
+      "resolution": "2560x1667",
+      "size_bytes": 598675,
+      "sha256": "c248b9b3260eec6421b39f332e58b647226366aba204f257781fcfed860f63ce"
+    },
+    {
+      "id": "galhang-puan",
+      "name": "Galhang Puan",
+      "type": "standard_reference",
+      "path": "assets/galhang-puan.jpg",
+      "size_bytes": 377244,
+      "sha256": "33e33124cafd8655dffad0d54a6e03df0fce7be831a89953e124ab9e7e6e6b35"
+    },
+    {
+      "id": "galhang-puan",
+      "name": "Galhang Puan",
+      "type": "master_graphic",
+      "path": "puan-images/05_Galhang_Puan.jpeg",
+      "resolution": "2560x1667",
+      "size_bytes": 981090,
+      "sha256": "138cc80d0cf99b2d34c5d0fdac7f582e4bc9d675c2fa5fd34090e8ee70279ccb"
+    },
+    {
+      "id": "khephiau-puan",
+      "name": "Khephiau Puan",
+      "type": "standard_reference",
+      "path": "assets/khephiau-puan.jpg",
+      "size_bytes": 418032,
+      "sha256": "e347e6e3a9f9073e47f62356b9b5071b1dff73b924e2540c498e0e65245a9914"
+    },
+    {
+      "id": "khephiau-puan",
+      "name": "Khephiau Puan",
+      "type": "master_graphic",
+      "path": "puan-images/06_Khephiau_Puan.jpeg",
+      "resolution": "2560x1685",
+      "size_bytes": 1768506,
+      "sha256": "3933ff10915644920450733c806890115204c03d670da38aefb7e63960b1155c"
+    },
+    {
+      "id": "ngoutekhelh-puan",
+      "name": "Ngoutekhelh Puan",
+      "type": "standard_reference",
+      "path": "assets/ngoutekhelh-puan.jpg",
+      "size_bytes": 211151,
+      "sha256": "b030579c18f5ec42c5c95526b1443556118b462afe0b03215e619d0826a8a8e4"
+    },
+    {
+      "id": "ngoutekhelh-puan",
+      "name": "Ngoutekhelh Puan",
+      "type": "master_graphic",
+      "path": "puan-images/07_Ngoutekhelh_Puan.jpeg",
+      "resolution": "2560x1689",
+      "size_bytes": 584580,
+      "sha256": "6d143b9f92543483ef94f22fcd94968a1441f776cb82dbaef10a16296e084f98"
+    },
+    {
+      "id": "mal-am-puan",
+      "name": "Mal-am Puan",
+      "type": "standard_reference",
+      "path": "assets/mal-am-puan.jpg",
+      "size_bytes": 388605,
+      "sha256": "93582b5410c976441f3c8870b70e70edf2f9e6774fe50ace171fce399308db59"
+    },
+    {
+      "id": "mal-am-puan",
+      "name": "Mal-am Puan",
+      "type": "master_graphic",
+      "path": "puan-images/08_Mal-am_Puan.jpeg",
+      "resolution": "2560x1689",
+      "size_bytes": 1180433,
+      "sha256": "d1a4ba768014c7d21c67bb756310374f38ddef2f96eaaa4b596020c599924dd6"
+    },
+    {
+      "id": "aksi-puan",
+      "name": "Aksi Puan",
+      "type": "standard_reference",
+      "path": "assets/aksi-puan.jpg",
+      "size_bytes": 328879,
+      "sha256": "2a07038cd910e6cfcc754c355be789933cd97b340de7cc08ebe92e2dd8bb2e5c"
+    },
+    {
+      "id": "aksi-puan",
+      "name": "Aksi Puan",
+      "type": "master_graphic",
+      "path": "puan-images/09_Aksi_Puan.jpeg",
+      "resolution": "2560x1689",
+      "size_bytes": 839075,
+      "sha256": "cd2940c77ad2e808a1dc9f6ac8a2d157797c37d77fe540575aed335dc480a421"
+    },
+    {
+      "id": "pangpalek-puan",
+      "name": "Pangpalek Puan",
+      "type": "standard_reference",
+      "path": "assets/pangpalek-puan.jpg",
+      "size_bytes": 185890,
+      "sha256": "256eb514c16642e522b00410e1e53cb3f9463a84f0e3e213864c475dd3947cc1"
+    },
+    {
+      "id": "pangpalek-puan",
+      "name": "Pangpalek Puan",
+      "type": "master_graphic",
+      "path": "puan-images/10_Pangpalek_Puan.jpeg",
+      "resolution": "2560x1721",
+      "size_bytes": 568272,
+      "sha256": "d086b063d08bdaa259963620786ba80cfbde7fa75f7360686d3d48358738f1d5"
+    },
+    {
+      "id": "lianbuangthuam-puan",
+      "name": "Lianbuangthuam Puan",
+      "type": "standard_reference",
+      "path": "assets/lianbuangthuam-puan.jpg",
+      "size_bytes": 922471,
+      "sha256": "f4e1efc1f34634cd9bc5e61154d2e96834af2b3ab688df3b27d28cb84deff3f5"
+    },
+    {
+      "id": "lianbuangthuam-puan",
+      "name": "Lianbuangthuam Puan",
+      "type": "master_graphic",
+      "path": "puan-images/11_Lianbuangthuam_Puan.jpeg",
+      "resolution": "2560x1861",
+      "size_bytes": 2872633,
+      "sha256": "256da1d5a2845c530eb3eb6dece365286d5a27812819388b2cf32654be368579"
+    },
+    {
+      "id": "puanthupi-puan",
+      "name": "Puanthupi Puan",
+      "type": "standard_reference",
+      "path": "assets/puanthupi-puan.jpg",
+      "size_bytes": 1154243,
+      "sha256": "43b628d19d0060b04873385f7da401aab480b13a6837b84ca38d144548c3c06b"
+    },
+    {
+      "id": "puanthupi-puan",
+      "name": "Puanthupi Puan",
+      "type": "master_graphic",
+      "path": "puan-images/12_Puanthupi_Puan.jpeg",
+      "resolution": "2560x1562",
+      "size_bytes": 4140408,
+      "sha256": "f7b46a68196986b7c35e48b7ddfc3469d57e1ebfac21f29845c480a293aa6df4"
+    }
+  ]
+}
